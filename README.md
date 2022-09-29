@@ -41,5 +41,5 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hh.ru/resume/74fa74fbff072eb9a30039ed1f704d49553448)
+[Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)(https://hh.ru/resume/74fa74fbff072eb9a30039ed1f704d49553448)
 

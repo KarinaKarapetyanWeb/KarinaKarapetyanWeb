@@ -18,7 +18,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 - **Layout:** HTML5, Email-markdown.
 - **Styling:** CSS3/SASS/LESS/Styled Components/CSS Modules, Bootstrap.
 - **Code bundlers:** Gulp, Webpack.
-- **Version control systems:** Git,
+- **Version control systems:** Git.
 - **CMS Integration**: Wordpress.
 
 ## Currently Learning

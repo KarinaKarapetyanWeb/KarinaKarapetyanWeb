@@ -36,7 +36,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 |  [Keksobooking](https://github.com/KarinaKarapetyanWeb/829927-keksobooking-21) | Booking and rent service | Vanilla JavaScript (ES6), Webpack |
 |  [Big Trip](https://github.com/KarinaKarapetyanWeb/829927-big-trip-simple-18) | Planning your trip service| Vanilla JavaScript (ES6), Day.js, Flatpickr.js, Webpack |
 |  [Todo App](https://github.com/KarinaKarapetyanWeb/todo-app-react) | Simple Todo App | JavaScript, React.js |
-|  [Top App](https://github.com/KarinaKarapetyanWeb/top-app) | Books online-shop | Typescript, Next.js, Css modules |
+|  [Top App](https://github.com/KarinaKarapetyanWeb/top-app) | Books online-shop | Typescript, Next.js, Date-fns, Css modules |
 |  [Events Calendar](https://github.com/KarinaKarapetyanWeb/react-typescript) | Register and create simple events  | Typescript, React.js, Redux, ANTD, Moment.js |
 
 

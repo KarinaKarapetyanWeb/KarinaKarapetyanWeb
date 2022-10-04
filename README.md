@@ -16,7 +16,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 - **State management:** Redux, Mobx.
 - **Testing libraries:** Jest, React Testing Library.
 - **Layout:** HTML5, Email-markdown.
-- **Styling:** CSS3/SASS/LESS/Styled Components/CSS Modules, Bootstrap.
+- **Styling:** CSS3/SASS/LESS/Styled Components/CSS Modules/Bootstrap.
 - **Code bundlers:** Gulp, Webpack.
 - **Version control systems:** Git.
 - **CMS Integration**: Wordpress.

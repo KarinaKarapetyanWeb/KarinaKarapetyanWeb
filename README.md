@@ -38,8 +38,3 @@ I am a frontend developer with a strong passion of good structured code. Each da
 |  [Todo App](https://github.com/KarinaKarapetyanWeb/todo-app-react) | Simple Todo App | JavaScript, React.js |
 |  [Top App](https://github.com/KarinaKarapetyanWeb/top-app) | Books online-shop | Typescript, Next.js, Date-fns, Css modules |
 |  [Events Calendar](https://github.com/KarinaKarapetyanWeb/react-typescript) | Register and create simple events  | Typescript, React.js, Redux, ANTD, Moment.js |
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hh.ru/resume/74fa74fbff072eb9a30039ed1f704d49553448)
-

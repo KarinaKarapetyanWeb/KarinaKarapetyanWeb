@@ -33,6 +33,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 | Project name | Description | Technologies |
 |---|---|---|
+|  [6 sities](https://github.com/KarinaKarapetyanWeb/829927-six-cities-simple-11) | Booking and rent service | React, Typescript, Axios, Redux, Jest, Webpack |
 |  [Keksobooking](https://github.com/KarinaKarapetyanWeb/829927-keksobooking-21) | Booking and rent service | Vanilla JavaScript (ES6), Webpack |
 |  [Big Trip](https://github.com/KarinaKarapetyanWeb/829927-big-trip-simple-18) | Planning your trip service| SPA, Vanilla JavaScript (ES6), Day.js, Flatpickr.js, Webpack |
 |  [Todo App](https://github.com/KarinaKarapetyanWeb/todo-app-react) | Simple Todo App | JavaScript, React.js |

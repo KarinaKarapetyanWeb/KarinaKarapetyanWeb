@@ -12,18 +12,15 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 ## Tech Stack
 
-- **Frontend:** Vanilla Javascript (ES5, ES6), Typescript, React, Greensock-animations.
+- **Frontend:** Vanilla Javascript, Typescript, React, Next.js, Greensock-animations.
 - **State management:** Redux, Mobx.
 - **Testing libraries:** Jest, React Testing Library.
 - **Layout:** HTML5, Email-markdown.
 - **Styling:** CSS3/SASS/LESS/Styled Components/CSS Modules/Bootstrap.
-- **Code bundlers:** Gulp, Webpack.
+- **Task manager:** Gulp.
+- **Code bundlers:** Webpack, Rollup, EsBuild, Vite.
 - **Version control systems:** Git.
 - **CMS Integration**: Wordpress.
-
-## Currently Learning
-
-- Next.js
 
 
 
@@ -33,9 +30,10 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 | Project name | Description | Technologies |
 |---|---|---|
+|  [Awesome UI](https://github.com/awesome-ui-kit/awesome-ui) | React components library | React, Typescript, Rollup |
 |  [6 sities](https://github.com/KarinaKarapetyanWeb/829927-six-cities-simple-11) | Booking service | React, Typescript, Axios, Redux, Jest, Webpack |
 |  [Keksobooking](https://github.com/KarinaKarapetyanWeb/829927-keksobooking-21) | Booking and rent service | Vanilla JavaScript (ES6), Webpack |
 |  [Big Trip](https://github.com/KarinaKarapetyanWeb/829927-big-trip-simple-18) | Planning your trip service| SPA, Vanilla JavaScript (ES6), Day.js, Flatpickr.js, Webpack |
-|  [Todo App](https://github.com/KarinaKarapetyanWeb/todo-app-react) | Simple Todo App | JavaScript, React.js |
+|  [Todo App](https://github.com/KarinaKarapetyanWeb/todo-app-react) | Simple Todo App | JavaScript, React |
 |  [Top App](https://github.com/KarinaKarapetyanWeb/top-app) | Books online-shop | Typescript, Next.js, Date-fns, Css modules |
 |  [Events Calendar](https://github.com/KarinaKarapetyanWeb/react-typescript) | Register and create simple events  | Typescript, React.js, Redux, ANTD, Moment.js |

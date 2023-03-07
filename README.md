@@ -12,7 +12,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 ## Tech Stack
 
-- **Frontend:** Vanilla Javascript, Typescript, React, Next.js, Greensock-animations.
+- **Frontend:** Vanilla Javascript, Typescript, React, Next.js, Greensock-animations, Storybook.
 - **State management:** Redux, Mobx.
 - **Testing libraries:** Jest, React Testing Library.
 - **Layout:** HTML5, Email-markdown.

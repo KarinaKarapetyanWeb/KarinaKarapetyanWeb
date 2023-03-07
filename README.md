@@ -17,7 +17,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 - **Testing libraries:** Jest, React Testing Library.
 - **Layout:** HTML5, Email-markdown.
 - **Styling:** CSS3/SASS/LESS/Styled Components/CSS Modules/Bootstrap.
-- **Task manager:** Gulp.
+- **Task managers:** Gulp.
 - **Code bundlers:** Webpack, Rollup, EsBuild, Vite.
 - **Version control systems:** Git.
 - **CMS Integration**: Wordpress.

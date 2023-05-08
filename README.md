@@ -30,6 +30,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 | Project name | Description | Technologies |
 |---|---|---|
+|  [Hacker News Service](https://github.com/KarinaKarapetyanWeb/br-group-test) | Apllication with auto refreshing items | React, Typescript, Redux-Toolkit, RTK-Query, Scss modules |
 |  [Open Media Player](https://github.com/KarinaKarapetyanWeb/open-media-player) | Online Player | React, Typescript, Redux, Web Audio Api, Scss modules |
 |  [Awesome UI](https://github.com/awesome-ui-kit/awesome-ui) | React components library | React, Typescript, Rollup |
 |  [6 sities](https://github.com/KarinaKarapetyanWeb/829927-six-cities-simple-11) | Booking service | React, Typescript, Axios, Redux, Jest, Webpack |

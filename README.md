@@ -30,6 +30,7 @@ I am a frontend developer with a strong passion of good structured code. Each da
 
 | Project name | Description | Technologies |
 |---|---|---|
+|  [Awesome Get Weather Cli](https://github.com/KarinaKarapetyanWeb/node-weather-cli) | Weather forecast cli | Node.js, Axios, Open Weather Map |
 |  [Hacker News Service](https://github.com/KarinaKarapetyanWeb/br-group-test) | Apllication with auto refreshing news | React, Typescript, Redux-Toolkit, RTK-Query, Scss modules, ANTD |
 |  [Open Media Player](https://github.com/KarinaKarapetyanWeb/open-media-player) | Online Player | React, Typescript, Redux, Web Audio Api, Scss modules |
 |  [Awesome UI](https://github.com/awesome-ui-kit/awesome-ui) | React components library | React, Typescript, Rollup |
